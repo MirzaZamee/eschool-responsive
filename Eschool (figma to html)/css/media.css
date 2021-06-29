@@ -1,0 +1,584 @@
+@media(max-width:1199px) and (min-width:992px){
+    .client-img {
+        width: 46%;
+    }
+    .client {
+        align-items: center;
+        width: 92%;
+    }
+    .course ul li {
+        font-size: 16px;
+        color: #585859;
+        font-weight: 500;
+        line-height: 24px;
+        font-family: 'Poppins', sans-serif;
+        margin-bottom: 17px;
+    }
+    .course ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: block;
+    }
+    .feature-1 img {
+        width: 68px;
+    }
+    .feature-1 h2 {
+        font-size:21px
+    }
+    .feature-1 p {
+        font-size: 15px;
+    }
+    .navbar-brand {
+        width: 21%;
+    }
+    .banner h1 {
+        font-size: 44px;
+        line-height: 61px;
+    }
+    .banner p {
+        font-size: 16px;
+        line-height: 36px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 16px;
+        margin-right: 5px;
+    }
+    .banner {
+        padding-top: 37px;
+    }
+}
+@media(max-width:991px) and (min-width:768px){
+    .client-img {
+        width: 65%;
+    }
+    .client {
+        align-items: center;
+        width: 86%;
+    }
+    .course ul li {
+        font-size: 15px;
+        color: #585859;
+        font-weight: 500;
+        line-height: 24px;
+        font-family: 'Poppins', sans-serif;
+        margin-bottom: 17px;
+    }
+    .course ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: block;
+    }
+    .feature-1 img {
+        width: 68px;
+    }
+    .feature-1 h2 {
+        font-size: 19px;
+    }
+    .feature-1 p {
+        font-size: 14px;
+    }
+    .navbar-brand {
+        width: 28%;
+    }
+    .banner h1 {
+        font-size: 44px;
+        line-height: 61px;
+    }
+    .banner p {
+        font-size: 16px;
+        line-height: 36px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 16px;
+        margin-right: 5px;
+    }
+    .banner {
+        padding-top: 23px;
+        text-align: center;
+    }
+    .banner-img{
+        width: 73%;
+    }
+    .banner-image{
+        text-align: center;
+        padding: 59px 0;
+    }
+    .course h2 {
+        font-size: 25px;
+        line-height: 33px;
+    }
+    .course h5 {
+        font-size: 17px;
+        line-height: 24px;
+    }
+    .client-p {
+        font-size: 16px;
+        line-height: 35px;
+        margin-left: 20px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 18px;
+        margin-right: 5px;
+        margin-bottom: 11px;
+    }
+    .navbar-nav {
+        text-align: center;
+        margin-top: 32px;
+    }
+    .btn-sign {
+        margin: 0 282px;
+        width: 125px;
+    }
+    footer ul{
+        margin-left: 0;
+    }
+    footer ul li {
+        font-weight: 200;
+        font-size: 17px;
+        line-height: 30px;
+    }
+}
+@media(max-width:767px) and (min-width:576px){
+    .client-img {
+        width: 17%;
+        margin-bottom: 21px;
+    }
+    .client {
+        align-items: center;
+        display: block;
+        width: 100%;
+    }
+    .course ul li {
+        font-size: 17px;
+        color: #585859;
+        font-weight: 500;
+        line-height: 24px;
+        font-family: 'Poppins', sans-serif;
+        margin-bottom: 17px;
+    }
+    .course ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+    .feature-1 img {
+        width: 68px;
+    }
+    .feature-1 h2 {
+        font-size: 19px;
+    }
+    .feature-1 p {
+        font-size: 14px;
+    }
+    .navbar-brand {
+        width: 35%;
+    }
+    .banner h1 {
+        font-size: 44px;
+        line-height: 61px;
+    }
+    .banner p {
+        font-size: 16px;
+        line-height: 36px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 16px;
+        margin-right: 5px;
+    }
+    .banner {
+        padding-top: 23px;
+        text-align: center;
+    }
+    .banner-img{
+        width: 93%;
+    }
+    .banner-image{
+        text-align: center;
+        padding: 59px 0;
+    }
+    .course h2 {
+        font-size: 27px;
+        line-height: 33px;
+    }
+    .course h5 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .client-p {
+        font-size: 16px;
+        line-height: 34px;
+        text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 18px;
+        margin-right: 5px;
+        margin-bottom: 11px;
+    }
+    .navbar-nav {
+        text-align: center;
+        margin-top: 39px;
+    }
+    .btn-sign {
+        margin: 0px 192px;
+        width: 125px;
+    }
+    footer ul{
+        margin-left: 0;
+    }
+    footer ul li {
+        font-weight: 200;
+        font-size: 17px;
+        line-height: 30px;
+    }
+    .btn-course {
+        padding: 11px 28px;
+    }
+    .heading-teatimonial h1 {
+        margin-bottom: 26px;
+    }
+    .course {
+        margin-bottom: 73px;
+    }
+    .feature-1 {
+        margin: 0px 103px;
+        margin-bottom: 24px;
+    }
+}
+@media(max-width:575px) and (min-width:0px){
+    .client-img {
+        width: 19%;
+        margin-bottom: 21px;
+    }
+    .client {
+        align-items: center;
+        display: block;
+        width: 100%;
+    }
+    .course ul li {
+        font-size: 17px;
+        color: #585859;
+        font-weight: 500;
+        line-height: 24px;
+        font-family: 'Poppins', sans-serif;
+        margin-bottom: 17px;
+    }
+    .course ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+    .feature-1 img {
+        width: 68px;
+    }
+    .feature-1 h2 {
+        font-size: 19px;
+    }
+    .feature-1 p {
+        font-size: 14px;
+    }
+    .navbar-brand {
+        width: 42%;
+    }
+    .banner h1 {
+        font-size: 44px;
+        line-height: 58px;
+    }
+    .banner p {
+        font-size: 16px;
+        line-height: 35px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 16px;
+        margin-right: 5px;
+    }
+    .banner {
+        padding-top: 23px;
+        text-align: center;
+    }
+    .banner-img{
+        width: 98%;
+    }
+    .banner-image{
+        text-align: center;
+        padding: 59px 0;
+    }
+    .course h2 {
+        font-size: 27px;
+        line-height: 33px;
+    }
+    .course h5 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .client-p {
+        font-size: 16px;
+        line-height: 32px;
+        text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 17px;
+        margin: 0;
+        margin-bottom: 11px;
+        display: inline-block;
+    }
+    .navbar-nav {
+        text-align: center;
+        margin-top: 39px;
+    }
+    .btn-sign {
+        margin: 0px 141px!important;
+        width: 118px;
+    }
+    footer ul{
+        margin-left: 0;
+        text-align: center;
+        padding: 0;
+    }
+    footer ul li {
+        font-weight: 200;
+        font-size: 17px;
+        line-height: 30px;
+    }
+    .btn-course {
+        padding: 11px 28px;
+    }
+    .heading-teatimonial h1 {
+        margin-bottom: 26px;
+    }
+    .course {
+        margin-bottom: 73px;
+    }
+    .feature-1 {
+        margin: 0px 71px;
+        margin-bottom: 24px;
+    }
+    .heading-teatimonial{
+        padding: 0!important;
+    }
+}
+@media(max-width:375px) and (min-width:0px){
+    .client-img {
+        width: 22%;
+        margin-bottom: 21px;
+    }
+    .client {
+        align-items: center;
+        display: block;
+        width: 100%;
+    }
+    .course ul li {
+        font-size: 16px;
+        color: #585859;
+        font-weight: 500;
+        line-height: 24px;
+        font-family: 'Poppins', sans-serif;
+        margin-bottom: 17px;
+    }
+    .course ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+    .feature-1 img {
+        width: 68px;
+    }
+    .feature-1 h2 {
+        font-size: 19px;
+    }
+    .feature-1 p {
+        font-size: 14px;
+    }
+    .navbar-brand {
+        width: 48%;
+    }
+    .banner h1 {
+        font-size: 41px;
+        line-height: 54px;
+    }
+    .banner p {
+        font-size: 16px;
+        line-height: 34px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 16px;
+        margin-right: 5px;
+    }
+    .banner {
+        padding-top: 23px;
+        text-align: center;
+    }
+    .banner-img{
+        width: 100%;
+    }
+    .banner-image{
+        text-align: center;
+        padding: 59px 0;
+    }
+    .course h2 {
+        font-size: 27px;
+        line-height: 33px;
+    }
+    .course h5 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .client-p {
+        font-size: 16px;
+        line-height: 32px;
+        text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 17px;
+        margin: 0;
+        margin-bottom: 11px;
+        display: inline-block;
+    }
+    .navbar-nav {
+        text-align: center;
+        margin-top: 39px;
+    }
+    .btn-sign {
+        margin: 0px 113px!important;
+        width: 118px;
+    }
+    footer ul{
+        margin-left: 0;
+        text-align: center;
+        padding: 0;
+    }
+    footer ul li {
+        font-weight: 200;
+        font-size: 17px;
+        line-height: 30px;
+    }
+    .btn-course {
+        padding: 11px 28px;
+    }
+    .heading-teatimonial h1 {
+        margin-bottom: 26px;
+    }
+    .course {
+        margin-bottom: 73px;
+    }
+    .feature-1 {
+        margin: 0px 44px;
+        margin-bottom: 24px;
+    }
+}
+@media(max-width:320px) and (min-width:0px){
+    .client-img {
+        width: 27%;
+        margin-bottom: 21px;
+    }
+    .client {
+        align-items: center;
+        display: block;
+        width: 100%;
+    }
+    .course ul li {
+        font-size: 15px;
+        color: #585859;
+        font-weight: 500;
+        line-height: 24px;
+        font-family: 'Poppins', sans-serif;
+        margin-bottom: 17px;
+    }
+    .course ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: block;
+    }
+    .feature-1 img {
+        width: 68px;
+    }
+    .feature-1 h2 {
+        font-size: 19px;
+    }
+    .feature-1 p {
+        font-size: 14px;
+    }
+    .navbar-brand {
+        width: 53%;
+    }
+    .banner h1 {
+        font-size: 35px;
+        line-height: 50px;
+    }
+    .banner p {
+        font-size: 14px;
+        line-height: 31px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 16px;
+        margin-right: 5px;
+    }
+    .banner {
+        padding-top: 23px;
+        text-align: center;
+    }
+    .banner-img{
+        width: 100%;
+    }
+    .banner-image{
+        text-align: center;
+        padding: 59px 0;
+    }
+    .course h2 {
+        font-size: 23px;
+        line-height: 33px;
+    }
+    .course h5 {
+        font-size: 17px;
+        line-height: 24px;
+    }
+    .client-p {
+        font-size: 15px;
+        line-height: 32px;
+        text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 16px;
+        margin-right: 5px;
+        margin-bottom: 11px;
+    }
+    .navbar-nav {
+        text-align: center;
+        margin-top: 39px;
+    }
+    .btn-sign {
+        margin: 0px 80px!important;
+        width: 118px;
+    }
+    footer ul{
+        margin-left: 0;
+        text-align: center;
+        padding: 0;
+    }
+    footer ul li {
+        font-weight: 200;
+        font-size: 17px;
+        line-height: 30px;
+    }
+    .btn-course {
+        padding: 11px 28px;
+    }
+    .heading-teatimonial h1 {
+        margin-bottom: 26px;
+    }
+    .course {
+        margin-bottom: 73px;
+    }
+    .feature-1 {
+        margin: 0px 28px;
+        margin-bottom: 24px;
+    }
+    .heading-course h1 {
+        font-size: 33px;
+    }
+    .heading-teatimonial h1 {
+        font-size: 35px;
+    }
+}
